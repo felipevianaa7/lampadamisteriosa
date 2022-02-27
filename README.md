@@ -9,5 +9,6 @@ usando o método Math.random() para sortear essas cores.
 
 ## <p>Layout do Site</p>
 <a href="https://felipevianaa7.github.io/lampadamisteriosa/">Acesse aqui</a>
+<a href="https://ionic.io/ionicons">Imagem da lâmpada</a>
 
 ## <p style="width: 600px; height: 1200px; padding-top: 30px;">https://user-images.githubusercontent.com/53532151/155904133-a5682d01-3287-46e4-9349-1e78c827e0e1.mp4</p>
